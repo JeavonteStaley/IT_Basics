@@ -20,6 +20,7 @@ public class Operators {
         Scanner in = new Scanner(System.in);
         int numOne;
         int numTwo; 
+        
         System.out.print("Enter first number: ");
         numOne = in.nextInt();
         System.out.print("Enter a second number: ");
@@ -38,7 +39,7 @@ public class Operators {
         System.out.println("Multiplication: " + numOne + " * " + numTwo + " = "+ mulitplication);
         
         int modulus = numOne % numTwo;
-        System.out.println("The remainder is: " + numOne + " % " + numTwo + " = " + modulus);
+        System.out.println("Remainder: " + numOne + " % " + numTwo + " = " + modulus);
     }
     
 }

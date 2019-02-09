@@ -16,3 +16,4 @@ nbdist/
 
 # End of https://www.gitignore.io/api/netbeans
 /Arithmetic_Operators/Operatiors/nbproject/private/
+/String/Strings/nbproject/private/
